@@ -1,0 +1,12 @@
+category,model,inference_cost_mflops_or_ops,params
+traditional,Logistic Regression,0.001536,
+traditional,Random Forest,0.002490,
+traditional,Extra Trees,0.003005,
+traditional,SVM (RBF),0.554415,
+traditional,kNN,3.195369,
+deep,EEGNet-like,0.015718,766
+deep,MLP,0.149894,75334
+deep,LeNet1D,0.201078,67006
+deep,1D-CNN,2.459142,32326
+deep,MobileNetV2,15.940870,695078
+deep,ShuffleNetV2,21.626886,347510

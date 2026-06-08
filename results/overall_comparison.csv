@@ -1,0 +1,4 @@
+category,model,val_macro_f1,test_macro_f1,test_accuracy,test_balanced_accuracy
+best_traditional,Extra Trees,0.7798,0.6921,0.6908,0.7210
+best_deep_baseline,EEGNet-like,0.7690,0.7795,0.7458,0.7795
+final_model,Refined EEGNet (12/24),0.8113,0.7812,0.7655,0.8009
